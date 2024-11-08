@@ -16,7 +16,7 @@ Najlepszy projekt, lecimy w kosmos, sky is not the limit...
                 |     /        |     /     ~-.     `-. _||_||_
                 |_____|        |_____|         ~ - . _ _ _ _ _>
               
-
+# co tam
 
 ㅤ         ⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀
