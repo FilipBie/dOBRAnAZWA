@@ -18,7 +18,7 @@ Najlepszy projekt, lecimy w kosmos, sky is not the limit...
               
 # co tam
 # za gram 50 zł
-aaaaaaaaaaabbbbbbbbbbcccccccc
+aaaaaaaaaaabbbbbbbbbbcccccccch
 ㅤ         ⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀⠀
