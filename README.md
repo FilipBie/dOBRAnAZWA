@@ -19,6 +19,7 @@ Najlepszy projekt, lecimy w kosmos, sky is not the limit...
 # co tam
 <<<<<<< HEAD
 dddd
+tttttt
 >>>>>>> a808543d0c49002b944fa3f632af4bd6dba46758
 ㅤ         ⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀
