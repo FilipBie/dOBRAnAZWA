@@ -18,13 +18,7 @@ Najlepszy projekt, lecimy w kosmos, sky is not the limit...
               
 # co tam
 <<<<<<< HEAD
-# za gram 50 zł3434
-aaaaaaaaaaabbbbbbbbbbcccccccc
-aeeat
-=======
-# za gram 50 zł343433
-aaaaaaaaaaabbbbbbbbbbcccccccc6
-aeea
+
 >>>>>>> a808543d0c49002b944fa3f632af4bd6dba46758
 ㅤ         ⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀
